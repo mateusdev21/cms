@@ -25,12 +25,24 @@ const routes = [
         },
         component: () => import(/* webpackChunkName */ '../views/Home/Dashboard'),
       },
+      {
+        path: '/test-components',
+        name: 'test-components',
+        meta: {
+          text: 'Test Components',
+          breadcrumbs: [
+            { name: 'home', text: 'Home' }
+          ]
+        },
+        component: () => import(/*webpackChunkName */ '../views/Home/TestComponent')
+      }
     ],
   },
 ]
 
 const router = new VueRouter({
-  routes
+  mode: 'history',
+  routes,
 })
 
 export default router
