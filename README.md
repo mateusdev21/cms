@@ -1,4 +1,4 @@
-# cms-sewa
+# cms
 
 ## Project setup
 ```
