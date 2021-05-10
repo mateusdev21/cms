@@ -47,8 +47,8 @@ export default {
           {
             text: 'Movies List',
             icon: 'fa fa-film fa-fw',
-            link: '/master-data/movies',
-            linkName: 'car-list',
+            link: '/master-data/movies-list/action',
+            linkName: 'movies-list',
           },
           {
             text: 'Transaction',

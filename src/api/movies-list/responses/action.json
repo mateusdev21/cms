@@ -1,0 +1,41 @@
+{
+    "result": "ok",
+    "data": {
+        "movies": [
+            {
+                "ReleaseDate": "13 August 2012",
+                "Title": "The Bourne Legacy",
+                "Director": "Tony Gilroy",
+                "Writer": "Tony Gilroy",
+                "ProductionHouse": "Universal Picture",
+                "Country": "USA",
+                "Language": "English",
+                "Budget": 125000000,
+                "BoxOffice": 276100000
+            },
+            {
+                "ReleaseDate": "14 March 2018",
+                "Title": "Tomb Raider",
+                "Director": "Roar Uthaug",
+                "Writer": "Evan Daugherty",
+                "ProductionHouse": "Warner Bros Picture",
+                "Country": "USA",
+                "Language": "English",
+                "Budget": 106000000,
+                "BoxOffice": 274700000
+            },
+            {
+                "ReleaseDate": "26 April 2019",
+                "Title": "Avengers: Endgame",
+                "Director": "Anthony Russo & Joe Russo",
+                "Writer": "Stan Lee",
+                "ProductionHouse": "Marvel Studio",
+                "Country": "USA",
+                "Language": "English",
+                "Budget": 400000000,
+                "BoxOffice": 2798000000000
+            }
+        ],
+        "total_data": 3
+    }
+}
