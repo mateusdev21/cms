@@ -22,6 +22,7 @@ export default new Vuetify({
         secondary: "#282932",
         highlight: "#685865",
         dark: "#252a34",
+        red: "#912727",
       },
     },
   },
